@@ -4,13 +4,18 @@ Apasionado por la tecnología, el desarrollo de software y la inteligencia artif
 
 ## Stack Tecnológico
 Lenguajes y Core: Python 3.12+, JavaScript.
+
 Backend y APIs: FastAPI, Pydantic, Docker.
+
 IA y Modelos Locales: Ollama, integraciones con LLMs locales.
+
 Entorno y Herramientas: Git, VS Code, Cursor, PowerShell, Linux (Bash/WSL), Windows.
 
 ## Áreas de Interés y Proyectos
 Automatización y Sistemas: Desarrollo de arquitecturas modulares, procesamiento de datos y arquitecturas backend.
+
 Inteligencia Artificial: Exploración y aplicación práctica de modelos locales, agentes de voz y flujos automatizados.
+
 Formación Continua: Profundizando en desarrollo avanzado con IA y preparando retos técnicos profesionales.
 
 
